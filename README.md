@@ -14,4 +14,4 @@ This is a simple calculator application built using JavaScript. It performs basi
 You can clone the repository using the following bash command:
 
 ```bash
-git clone https://github.com/UlviParvizoghlu/CalculatorJS.git
+git clone https://github.com/UlviParviz/CalculatorJS.git
